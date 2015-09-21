@@ -1,0 +1,2 @@
+# magonotepc
+まごのてPCサイト作成
